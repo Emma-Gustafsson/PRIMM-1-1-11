@@ -4,16 +4,16 @@
 Answer the following questions *without running the repo**.
 
 1. What does this program output?
-    > your answer
+    > This program asks the user for two numbers, then outputs an equation where the two numbers are added to their solution.
 
 2. If the user intended on outputting the sum of two numbers, does this program accomplish the purpose? Why/why not?
-    > your answer
+    > Yes. The program adds the two numbers together, then outputs that new number.
 
 ## Run
 Run the program. 
 
 1. What does the program output. Refer to what numbers you entered and what you got back.
-    > your answer
+    > The program doesn't add the numbers together, it just puts the numbers next to each other. when i inout 4 and 8, the out put was "4 + 8 = 48", which is incorrect.
 
 
 ## Investigate

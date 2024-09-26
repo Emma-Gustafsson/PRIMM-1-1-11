@@ -19,10 +19,10 @@ Run the program.
 ## Investigate
 1. Add a single-line comment above each major chunk of code to explain what is happening.
 2. Read about the concept of [string concatenation](https://www.w3schools.com/python/gloss_python_string_concatenation.asp). Explain in your own words below what it is and how it relates to this program.
-    > your answer
+    > String concentration is when you add two strings together in one new string. For example, if you have the strings "Hello" and "World", string concentration can put these together into a new string containing "Hello World". In this situation, the numbers weren't mathematically added, they were just concentrated.
 
 3. Read about the [`int()`](https://www.w3schools.com/python/ref_func_int.asp) and [`float()`](https://www.w3schools.com/python/ref_func_float.asp) functions in Python. What do they do? How can they help this program?
-    > your answer
+    > The ['int()'] function converts a number into an integer by removing any decimals. The ['float()'] function converts every number intoa  decimal. It gets rid of unnecessary zeros in decimals, and adds ".0" to any integers. These functions can help this program because they convert strings to numbers. Since the current variables are strign sin the program, we can convert them to numbers and then add them.
 
 ## Modify
 1. Change the program using what you learned so that it adds two numbers you enter.

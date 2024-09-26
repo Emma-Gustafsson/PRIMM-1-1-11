@@ -1,9 +1,11 @@
 """
 PRIMM: 1+1 = 11
-Description of program here
-Name - Date
+Faulty Addition Program
+Emma Gustafsson - September 2024
 """
-
+"""
+This chunk of code asks the user for two numbers and then outputs the numbers beside each other.
+"""
 def main():
   
     num1: int = input("Enter a number: ")
